@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Learing nodejs",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjun",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.1.0",
+    "nodemon": "^3.0.2",
+    "url": "^0.11.3"
+  }
+}

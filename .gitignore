@@ -1,0 +1,9 @@
+#ignore some files
+
+node_modules/
+file.js
+function.js
+home.js
+log.txt
+operation.js
+test.txt
