@@ -28,4 +28,5 @@ router.get("/", async (req, res) => {
   }
 });
 
+//we exported router
 module.exports = router;
